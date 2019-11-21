@@ -1,5 +1,5 @@
 # Marko
-Vjezba iz predavanja
+~~Vjezba iz predavanja~~
 
 
 #**Sport**
