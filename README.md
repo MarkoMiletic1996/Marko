@@ -4,6 +4,7 @@ Vjezba iz predavanja
 
 #**Sport**
 <h1>Kosarka</h1>
-<h2>Kosarkaska lopta</h2>
+  <div>Kosarkaska lopta
+  </div>
 ![Kosarkaska lopta](https://images.app.goo.gl/oe7ZUMQdub2r7EP48)
 
